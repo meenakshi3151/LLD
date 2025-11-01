@@ -38,6 +38,6 @@ If you have a new design problem, improved code, or an alternate approach — fe
 2. **Create a new branch** (`git checkout -b feature-new-design`)  
 3. **Add your code** under the relevant folder (or create a new one)  
 4. **Commit and push** your changes  
-5. **Create a Pull Request** 🚀
+5. **Create a Pull Request** 
 ---
 📬 **Maintainer:** [Meenakshi Gupta](https://github.com/meenakshi3151)
