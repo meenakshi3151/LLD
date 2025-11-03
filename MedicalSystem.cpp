@@ -10,7 +10,7 @@ class Medicine {
     int medunits;
     
     Medicine(int id, string name, string manufacturer) {
-        medid-id;
+        medid=id;
         medname=name;
         medmanufacturer=manufacturer;
     }
